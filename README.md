@@ -9,7 +9,8 @@ This is the code for [this](https://www.youtube.com/watch?v=qirjknNY1zo) video o
 
 * numpy
 
-Use [pip](https://pip.pypa.io/en/stable/) to install missing dependencies. 
+Use [pip](https://pip.pypa.io/en/stable/) to install missing dependencies.
+[Anaconda](https://anaconda.org/) also a great option.
 
 ## Usage
 
